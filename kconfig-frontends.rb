@@ -2,7 +2,7 @@ require 'formula'
 
 class KconfigFrontends < Formula
   homepage ''
-  url 'http://ymorin.is-a-geek.org/download/kconfig-frontends/kconfig-frontends-3.7.0.0.tar.xz'
+  url 'http://ymorin.is-a-geek.org/download/kconfig-frontends/kconfig-frontends-3.12.0.0.tar.xz'
   version '3.12.0.0'
   sha256 'ea2615a62c74bea6ce3b38402f00c7513858f307f6ba7aa9fdbf0bbc12bcf407'
 
